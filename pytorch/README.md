@@ -10,7 +10,7 @@
 
   ① 原文结果：
 
-  <img src="C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20220729145921864.png" alt="image-20220729145921864" style="zoom:50%;" />
+  ![image](https://github.com/zbyandmoon/DeepCFD_with_PaddlePaddle/blob/main/pytorch/Run/%E5%8E%9F%E6%96%87%E7%BB%93%E6%9E%9C.png)
 
   ② 跑通原文参考代码的结果：
 
@@ -20,8 +20,6 @@
 
   **程序最后输出的CFD和CNN的对比图：**
 
-  ![image-20220729145007729](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20220729145007729.png)
-
-  
+  ![image](https://github.com/zbyandmoon/DeepCFD_with_PaddlePaddle/blob/main/pytorch/Run/CFD%E5%92%8CCNN%E7%BB%93%E6%9E%9C%E5%AF%B9%E6%AF%94%E5%9B%BE.png)
 
 * 复现地址：https://github.com/zbyandmoon/DeepCFD_with_PaddlePaddle/tree/main/pytorch
