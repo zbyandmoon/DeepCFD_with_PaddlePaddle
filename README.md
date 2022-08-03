@@ -298,7 +298,7 @@ Epoch #2
         |-- UNetExMod.py   		
     |-- pytorch		#原论文训练代码（pytorch版本）
         |-- Run
-    		|-- CFD和CNN结果对比图.png
+    	    |-- CFD和CNN结果对比图.png
             |-- 原文结果.png
             |-- 训练截图.png
             |-- results.json
@@ -311,7 +311,7 @@ Epoch #2
     	|-- README.md	#数据集下载地址
     |-- paddle     #复现代码（paddle版本）
         |-- Result
-    		|-- DeepCFD_*.pdparams	#训练中保存的模型
+    	    |-- DeepCFD_*.pdparams	#训练中保存的模型
             |-- results.json	#训练中保存的loss及各项指标变化         
             |-- train_log.txt	#训练过程记录
         |-- tool
@@ -330,16 +330,16 @@ Epoch #2
 |-- DeepCFD_with_PaddlePaddle
     |-- data	#数据集
         |-- data162674
-        	|-- dataX.pkl
+            |-- dataX.pkl
             |-- dataY.pkl
     |-- Result
-    		|-- DeepCFD_*.pdparams	#训练中保存的模型
-            |-- results.json	#训练中保存的loss及各项指标变化         
-            |-- train_log.txt	#训练过程记录 
+    	|-- DeepCFD_*.pdparams	#训练中保存的模型
+        |-- results.json	#训练中保存的loss及各项指标变化         
+        |-- train_log.txt	#训练过程记录 
     |-- tool
-    		|-- UNetEx.py   # DeepCFD网络的paddle版本
-            |-- functions.py	#包括张量分割和图像显示函数         
-            |-- train_functions.py	#训练代码
+    	|-- UNetEx.py   # DeepCFD网络的paddle版本
+        |-- functions.py	#包括张量分割和图像显示函数         
+        |-- train_functions.py	#训练代码
     |-- work
     |-- DeepCFD.py	#复现主程序
     |-- main.ipynb	#模型验证程序
