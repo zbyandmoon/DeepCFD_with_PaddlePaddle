@@ -1,1 +1,1 @@
-数据地址：https://zenodo.org/record/3666056/files/DeepCFD.zip?download=1
+数据地址：https://www.dropbox.com/s/kg0uxjnbhv390jv/Data_DeepCFD.7z?dl=0
