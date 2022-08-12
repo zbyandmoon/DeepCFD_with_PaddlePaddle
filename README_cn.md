@@ -118,7 +118,7 @@ pip install -r requirements.txt
 
 **step3：配置数据集**
 
-从https://www.dropbox.com/s/kg0uxjnbhv390jv/Data_DeepCFD.7z?dl=0下载得到Data_DeepCFD.7z，将dataX.pkl和dataY.pkl解压到DeepCFD_with_PaddlePaddle/data目录，如下所示。
+从https://www.dropbox.com/s/kg0uxjnbhv390jv/Data_DeepCFD.7z?dl=0 下载得到 Data_DeepCFD.7z，将dataX.pkl和dataY.pkl解压到DeepCFD_with_PaddlePaddle/data目录，如下所示。
 
 ![data.png](https://github.com/zbyandmoon/Picture/blob/main/picture_DeepCFD/data.png?raw=true)
 
@@ -257,8 +257,8 @@ DeepCFD_with_PaddlePaddle
 | 框架版本 | Paddle 2.3.1                                                 |
 | 应用场景 | 任意障碍物绕流的二维快速计算                                 |
 | 支持硬件 | GPU、CPU                                                     |
-| 下载链接 | [预训练模型]:https://github.com/zbyandmoon/DeepCFD_with_PaddlePaddle/blob/main/result/DeepCFD_965.pdparams |
-| 在线运行 | [AI Studio]:https://aistudio.baidu.com/aistudio/projectdetail/4400677AI |
+| 下载链接 | [预训练模型](https://github.com/zbyandmoon/DeepCFD_with_PaddlePaddle/blob/main/result/DeepCFD_965.pdparams) |
+| 在线运行 | [AI Studio](https://aistudio.baidu.com/aistudio/projectdetail/4400677AI) |
 
 
 
