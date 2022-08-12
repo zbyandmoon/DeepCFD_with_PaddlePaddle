@@ -260,7 +260,7 @@ The parameters for training can be set in /DeepCFD_with_PaddlePaddle/config/conf
 | Application scenarios | Fast 2D calculation of arbitrary obstacle bypass flow        |
 | Support hardware      | GPU、CPU                                                     |
 | Download link         | [Pre-trained model](https://github.com/zbyandmoon/DeepCFD_with_PaddlePaddle/blob/main/result/DeepCFD_965.pdparams) |
-| Online operation      | [AI Studio]:https://aistudio.baidu.com/aistudio/projectdetail/4400677AI |
+| Online operation      | [AI Studio](https://aistudio.baidu.com/aistudio/projectdetail/4400677AI) |
 
 
 
