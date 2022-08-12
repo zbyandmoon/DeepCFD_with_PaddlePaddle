@@ -1,5 +1,7 @@
 # 【论文复现赛】DeepCFD
 
+[English](./README.md) | 简体中文
+
 [TOC]
 
 本项目基于PaddlePaddle框架复现DeepCFD网络。
