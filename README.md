@@ -1,5 +1,7 @@
 # 【Paper Reproduction Contest】DeepCFD
 
+English | [简体中文](./README_cn.md)
+
 [TOC]
 
 This project is based on the PaddlePaddle framework to replicate the DeepCFD network.
