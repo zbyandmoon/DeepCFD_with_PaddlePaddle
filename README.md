@@ -94,7 +94,7 @@ The data set uses CFD examples computed by the original authors using OpenFOAM, 
 
 dataset link：https://aistudio.baidu.com/aistudio/datasetdetail/162674
 
-orhttps://www.dropbox.com/s/kg0uxjnbhv390jv/Data_DeepCFD.7z?dl=0
+or https://www.dropbox.com/s/kg0uxjnbhv390jv/Data_DeepCFD.7z?dl=0
 
 ## 4 Enviroment
 
